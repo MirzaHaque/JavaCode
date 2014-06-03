@@ -22,7 +22,7 @@ public class MainActivity extends Activity {
             getFragmentManager().beginTransaction()
                     .add(R.id.container, new PlaceholderFragment())
                     .commit();
-            //Test
+            //Testing is way to make your code perfect
                     
         }
     }
